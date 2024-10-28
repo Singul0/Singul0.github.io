@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "Heyo! I'm Singul0"
+email: 'kalvinalvaroalt@gmail.com'
+description: "I'm an amateur hobbyist coder, interested in open source contributing.
+  Started out by contributing to an FOSS game that I frequented, and its all snowballed from there"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://singul0.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'humanl1ke'
+github_username: 'singul0'
+medium_username: 'https://www.freecodecamp.org/fccbf3af13c-89f3-4361-be64-563af64a1983'
 
 # Build settings
 markdown: kramdown
@@ -92,8 +93,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2024 Kalvin Gavel Alvarooki'
+admin_name: 'Kalvin Gavel Alvarooki'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
