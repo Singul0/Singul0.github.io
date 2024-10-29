@@ -9,5 +9,5 @@ featured_image: '/img/posts/03_Responsive-Web-Design-1330x864.png'
 project_link: 'https://github.com/tgstation/tgstation/pulls?q=is%3Apr+author%3ASingul0'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "Completed a Responsive Web Design program from FreeCodeCamp"
+lead_text: "Completed the Responsive Web Design program from FreeCodeCamp."
 ---
