@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Arduino Calculator'
 date: 2016-02-20 15:56:00
 categories: development
