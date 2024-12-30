@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'JavaScript Algorithms and Data Structures Certificate'
-date: 2016-02-20 21:15:00
+date: 2016-02-21 21:15:00
 categories: development design
 tags: Javascript
 featured_image: '/img/posts/04-javascript-algorithms-and-data-structures-1330x860.png'
