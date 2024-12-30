@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Responsive Web Design Certificate'
+title: 'JavaScript Algorithms and Data Structures Certificate'
 date: 2016-02-20 21:15:00
 categories: development design
 tags: HTML CSS Bootstrap
